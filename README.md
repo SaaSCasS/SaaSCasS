@@ -1,7 +1,7 @@
 - 💋 Hi, I’m Cassie
 - 📝 I’m interested in Agile,Cloud computing, Customer Success, and Project Management 
 - 🧐 I’m currently learning: AWS, Microsoft Azure
-- 💞️ I’m looking to collaborate on ...
+- 💞️
 - 💌 
 
 <!---
